@@ -1,0 +1,24 @@
+{
+  "name": "ci-cd_skill-lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhinav-ai01/ci-cd_skill-lab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abhinav-ai01/ci-cd_skill-lab/issues"
+  },
+  "homepage": "https://github.com/Abhinav-ai01/ci-cd_skill-lab#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
